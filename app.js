@@ -299,7 +299,6 @@ let setupBlob = ((window)=>{
 
 
 	let moveHandler = function(e) {
-
 		let ww = canvas.width;
 		let wh = canvas.height;
 
